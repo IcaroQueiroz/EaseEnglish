@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EaseEnglish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smart_tab_layout_description">Descrição do layout de guias inteligentes</string>
+    <string name="view_pager_description">Descrição do pager de visualização</string>
+</resources>
